@@ -1,3 +1,7 @@
+# Inofficial npm publish!
+
+Please refer to https://www.npmjs.com/package/youtube-music-api to view the original package. This is just a newer publish to fix 1 little bug.
+
 # youtube-music-api
 
 Unoffical Youtube Music API
